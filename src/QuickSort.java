@@ -51,6 +51,7 @@ public class QuickSort {
     // This class should not be instantiated.
     private QuickSort() { }
 
+
     /**
      * Rearranges the array in ascending order, using the natural order.
      * @param a the array to be sorted
@@ -223,7 +224,7 @@ public class QuickSort {
          */
 
 
-        getPivot()
+
 
 
         /*
